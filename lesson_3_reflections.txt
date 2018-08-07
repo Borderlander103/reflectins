@@ -11,3 +11,8 @@ It gives you better control over which and when different branches get shared or
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You can keep track of changes offline.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Pair-coding. ;)  It would be quite cumbersome without a tool like this.
