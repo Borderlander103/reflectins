@@ -16,3 +16,8 @@ You can keep track of changes offline.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Pair-coding. ;)  It would be quite cumbersome without a tool like this.
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Master branch is easier and faster. Using a separate branch helps isolate more complex or experimental changes as well as facilitating collaboration with others.
