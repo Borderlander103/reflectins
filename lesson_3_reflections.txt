@@ -6,3 +6,8 @@ When you want to share or collaborate with others or work from a different compu
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 It gives you better control over which and when different branches get shared or go public.
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+You can keep track of changes offline.
