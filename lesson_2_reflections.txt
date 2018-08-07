@@ -18,3 +18,13 @@ For experimental changes and perhaps more involved bugs or feature additions. Th
 How do the diagrams help you visualize the branch structure?
 
 By giving you a visual of the branch structure.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+It combines the changes of two branches. Parents of the commit are from both branches.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+On the plus side, it does what should be most of the straightforward merging itself. It also highlights anything it thinks is a possible conflict. On the downside, it doesn't merge everything, and it could merge/overlook a conflict.
